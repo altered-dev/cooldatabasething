@@ -1,0 +1,59 @@
+<root>
+    <item name='me.altered.cooldatabasething.ConnectionUtils ConnectionUtils(java.sql.Connection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils boolean execute(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils connection'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils int update(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils java.sql.ResultSet query(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils java.sql.ResultSet query(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils java.sql.ResultSet selectAll()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils java.sql.ResultSet selectAllOrdered()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils void insert(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.ConnectionUtils void insert(me.altered.cooldatabasething.model.Country) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.DatabaseFactory java.sql.Connection getDatabase(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+    <item name='me.altered.cooldatabasething.DatabaseFactory java.sql.Connection getDatabase(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.Main me.altered.cooldatabasething.model.Country getCountryWithAverageStats(me.altered.cooldatabasething.ConnectionUtils)'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+    <item name='me.altered.cooldatabasething.Main me.altered.cooldatabasething.model.Country getCountryWithAverageStats(me.altered.cooldatabasething.ConnectionUtils) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.Main me.altered.cooldatabasething.model.Country getCountryWithMaxEconomics(me.altered.cooldatabasething.ConnectionUtils) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.Main me.altered.cooldatabasething.model.Country getCountryWithMaxEconomy(me.altered.cooldatabasething.ConnectionUtils)'>
+        <annotation name='org.jetbrains.annotations.Nullable'/>
+    </item>
+    <item name='me.altered.cooldatabasething.Main me.altered.cooldatabasething.model.Country getCountryWithMaxEconomy(me.altered.cooldatabasething.ConnectionUtils) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.Main void buildEconomyGraph(me.altered.cooldatabasething.ConnectionUtils) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='me.altered.cooldatabasething.Main void fillTable(me.altered.cooldatabasething.ConnectionUtils) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
